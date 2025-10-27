@@ -25,7 +25,7 @@ ___________________
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/jvictor.batista/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div> 
 
@@ -60,7 +60,7 @@ ___________________
 _________________________
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBatist&bg_color=000000&color=fc7f03&line=fc7f03&point=fc5203&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jvictor-s&bg_color=000000&color=fc7f03&line=fc7f03&point=fc5203&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--  
 ### Studying in this moment:
