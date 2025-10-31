@@ -1,27 +1,28 @@
 <!--Tittle-->
+
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=750&color=fc7f03&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+%3AD;my+name+is+João+Victor;I'm+a+full+stack+developer)](https://git.io/typing-svg)
+<h1>Bem-vind[oa] ao meu GitHub 🖥️</h1>
+
+<h3>Me chamo Joao Victor, sou estudante de Analise e Desenvolvimento de Sistemas do IFPB campus Cajazeiras.</h3>
+<p>Um entusiasta da tecnologia apaixonado por criar soluções que fazem a diferença.
+Atualmente estou focado no desenvolvimento web, explorando cada vez mais o universo do React e o desenvolvimento e consumo de APIs REST.
+Sempre em busca de novos desafios e aprendizados!</p>
 </div>
 
-___________________________
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=&color=fc7f03&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=main+technologies)](https://git.io/typing-svg)  
-</div>
+<h2>Tecnologias mais usadas</h2>
 
-<div align="center">
 <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
-___________________
+
+
 
 <div align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=&color=fc7f03&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=get+to+know+me+better)](https://git.io/typing-svg)
+  
+<h2>me conheça melhor</h2>
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -32,7 +33,7 @@ ___________________
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=&color=fc7f03&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=tools)](https://git.io/typing-svg)
+<h2>ferramentas</h2>
 
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
 ![KDE Neon](https://img.shields.io/badge/-kde%20neon-0D1117?style=for-the-badge&logo=kdeneon&logoColor=3DC08D&labelColor=0D1117)&nbsp;
@@ -45,7 +46,7 @@ ___________________
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=&color=fc7f03&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=other+knowledge)](https://git.io/typing-svg)
+<h2>outras aplicações e ferramentas utilizadas</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -57,10 +58,8 @@ ___________________
 ![Handlebars JS](https://img.shields.io/badge/-handlebars%20JS-0D1117?style=for-the-badge&logo=handlebarsdotjs&labelColor=0D1117)&nbsp;
 </div>
 
-_________________________
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jvictor-s&bg_color=000000&color=fc7f03&line=fc7f03&point=fc5203&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jvictor-s&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--  
 ### Studying in this moment:
