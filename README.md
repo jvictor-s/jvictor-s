@@ -26,9 +26,9 @@ Sempre em busca de novos desafios e aprendizados!</p>
   
 <h2>me conheça melhor</h2>
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://www.instagram.com/jvictor.batista/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-email-f00909?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0f2285?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/jvictor.batista/" target="_blank"><img src="https://img.shields.io/badge/-instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div> 
 
@@ -38,9 +38,8 @@ Sempre em busca de novos desafios e aprendizados!</p>
 <h2>ferramentas</h2>
 
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
-![KDE Neon](https://img.shields.io/badge/-kde%20neon-0D1117?style=for-the-badge&logo=kdeneon&logoColor=3DC08D&labelColor=0D1117)&nbsp;
-![Intellij](https://img.shields.io/badge/-intellij%20idea-0D1117?style=for-the-badge&logo=intellijidea&logoColor=3DC08D&labelColor=0D1117)&nbsp;
-![Zed](https://img.shields.io/badge/-zed%20text%20editor-0D1117?style=for-the-badge&logo=zedindustries&logoColor=F76800FF&labelColor=0D1117)&nbsp;
+![PopOS](https://img.shields.io/badge/-pop%20os-0D1117?style=for-the-badge&logo=popos&logoColor=3DC08D&labelColor=0D1117)&nbsp;
+![Intellij](https://img.shields.io/badge/-intellij%20idea-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   
@@ -57,7 +56,6 @@ Sempre em busca de novos desafios e aprendizados!</p>
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars JS](https://img.shields.io/badge/-handlebars%20JS-0D1117?style=for-the-badge&logo=handlebarsdotjs&labelColor=0D1117)&nbsp;
 </div>
 
 
