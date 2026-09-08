@@ -58,9 +58,6 @@ Sempre em busca de novos desafios e aprendizados!</p>
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 </div>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jvictor-s&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--  
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
